@@ -12,8 +12,8 @@ This project creates a daily [#TwitterBot](https://twitter.com/TopNewsWithData) 
 [@BrandonIKingPHD](https://twitter.com/BrandonIKingPHD)
 
 ## Environment Setup
-**Operations System:** Windows
-**Integrated Development Environment:** Visual Studio Code
+* **Operations System:** Windows
+* **Integrated Development Environment:** Visual Studio Code
 
 ## Data Sources
 [Google News](https://news.google.com/): A great source for the latest news by topics or categories hosted by Google
